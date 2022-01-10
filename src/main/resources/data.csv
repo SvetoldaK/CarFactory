@@ -1,3 +1,3 @@
-BMW;RED;V12;false;true
-Audi;GREEN;V8;true;true
-Volvo;BLUE;V12;false;false
+BMW;RED;V12;true;true;true;true;false;true
+AUDI;GREEN;V8;true;false;true;true;false;false
+VOLVO;BLUE;V12;false;true;true;false;true;true
